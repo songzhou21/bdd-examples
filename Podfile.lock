@@ -12,6 +12,14 @@ DEPENDENCIES:
   - OCMockito
   - Specta
 
+SPEC REPOS:
+  trunk:
+    - Expecta
+    - MTDates
+    - OCHamcrest
+    - OCMockito
+    - Specta
+
 SPEC CHECKSUMS:
   Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
   MTDates: 05ba586f0e0525f0926c9ef18aa7a0cd68570b29
@@ -19,6 +27,6 @@ SPEC CHECKSUMS:
   OCMockito: 62ddc6afff6a883f2864d51224b1dfdc0e9a7df7
   Specta: ac94d110b865115fe60ff2c6d7281053c6f8e8a2
 
-PODFILE CHECKSUM: 51e17f5c12cadcb7143e802a5247e32dd2985089
+PODFILE CHECKSUM: 3bcd568a2c255ef25849554acac01c4d6ee4b601
 
-COCOAPODS: 1.0.1
+COCOAPODS: 1.11.2
